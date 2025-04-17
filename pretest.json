@@ -1,0 +1,47 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The medium commonly employed for lecithinase test is",
+      "answers": {
+        "a": "Egg yolk agar",
+        "b": "Nutrient agar",
+        "c": "Mannitol salt agar",
+        "d": "Mac Conkey agar"
+      },
+ 
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. Importance of Lecithinase test is",
+      "answers": {
+        "a": "Differentiate between Staphylococcus aureus and Escherichia coli",
+        "b": "Determine the ability of microorganisms to produce Lecithinase.",
+        "c": "Identify bacteria which are capable of producing endoenzymes.",
+        "d": "Both b and c"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. The lipoprotein component of egg yolk agar is",
+      "answers": {
+        "a": "Lecithovitellin",
+        "b": "Diglycerides",
+        "c": "Phosphorylcholine",
+        "d": "Albumin"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 

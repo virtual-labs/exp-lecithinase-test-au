@@ -1,0 +1,47 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Clostridium species are",
+      "answers": {
+        "a": "Aerobic",
+        "b": "Obligate anaerobic",
+        "c": "Microaerophilic",
+        "d": "Facultative anaerobic"
+      },
+ 
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. The dye in the Thioglycolate broth is",
+      "answers": {
+        "a": "Phenyl red",
+        "b": "Methyl orange",
+        "c": "Resazurine",
+        "d": "Phenolphthalein"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. A strong producer of Lecithinase is",
+      "answers": {
+        "a": "Clostridium perfringens",
+        "b": "Bacillus subtilis",
+        "c": "Clostridium difficile",
+        "d": "All the above"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 
