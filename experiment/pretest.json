@@ -3,12 +3,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Streak plate is a",
+      "question": "1. The medium commonly employed for lecithinase test is",
       "answers": {
-        "a": "Qualitative isolation method",
-        "b": "Quantitative isolation method",
-        "c": "Non dilution isolation method",
-        "d": "None of the above"
+        "a": "Egg yolk agar",
+        "b": "Nutrient agar",
+        "c": "Mannitol salt agar",
+        "d": "Mac Conkey agar"
       },
  
       "correctAnswer": "a",
@@ -17,12 +17,12 @@
 
 
     {
-      "question": "2. A pure culture is best defined as",
+      "question": "2. Importance of Lecithinase test is",
       "answers": {
-        "a": "group of microorganisms which are genetically different",
-        "b": "group of microorganisms that are genetically similar",
-        "c": "group of microorganisms which are genetically similar, but morphologically different",
-        "d": "None of the above"
+        "a": "Differentiate between Staphylococcus aureus and Escherichia coli",
+        "b": "Determine the ability of microorganisms to produce Lecithinase.",
+        "c": "Identify bacteria which are capable of producing endoenzymes.",
+        "d": "Both b and c"
       },
       
       "correctAnswer": "b",
@@ -31,12 +31,12 @@
 
     
     {
-      "question": "3. To determine the size, colony morphology and grouping of bacterial cells, we use",
+      "question": "3. The lipoprotein component of egg yolk agar is",
       "answers": {
-        "a": "Streak plate",
-        "b": "phenol red",
-        "c": "simple stain",
-        "d": "nutrient broth culture"
+        "a": "Lecithovitellin",
+        "b": "Diglycerides",
+        "c": "Phosphorylcholine",
+        "d": "Albumin"
       },
      
       "correctAnswer": "a",
